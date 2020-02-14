@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/OnTheThunder/CloudRoad/master/public/images/onTheThunderWhite.png" width="200"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/AdrianDanlos/CloudRoad/master/public/images/onTheThunderWhite.png" width="200"></p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Laravel-orange">
@@ -15,14 +15,13 @@ Our app provides real-time data, map visualization and route algorithms that all
 </p>
 
 # How does it work?
-
-<p>
+  
 1. **Drivers**: Drivers that have experienced an issue on the road call our company providing the most important details about the incident. (Even though we thought about automating this task through the application we ended up leaving the idea aside. A quick call is faster and much more convenient for drivers than filling an online form in the middle of the road).
     
 2. **Operator**: An operator in our offices fills a form with the driver's data and mark the coordinates of the incident in an interactive map. From here our app takes care to find the car workshop with the fastest route to the incident. The operator then selects one of the proposed car technicians from that specific workshop.
 
 3. **Technician**: The technician instantly receives a notification inside the app and an email to make him aware of the new incident. The app provides him with the fastest route, the drivers data, the estimated time of arrival and much more.
-</p>
+
 
 # How does it work?
 
