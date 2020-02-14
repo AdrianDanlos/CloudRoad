@@ -1,5 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/AdrianDanlos/CloudRoad/master/public/images/onTheThunderWhite.png" width="200"></p>
 
+<h1 align="center">CloudRoad</h1>
+
 <p align="center">
     <img src="https://img.shields.io/badge/Laravel-orange">
     <img src="https://img.shields.io/badge/JavaScript-f7df1e">
@@ -7,7 +9,7 @@
     <img src="https://img.shields.io/badge/License-MIT-green">
 </p>
 
-# CloudRoad
+# 
 <p>
 <a href="http://onthethunder.herokuapp.com/">CloudRoad</a> is a web application designed to incorporate software technology to road incidents in order to streamline the process thus lowering the resolution time of the incident.
     
@@ -23,8 +25,8 @@ Our app provides real-time data, map visualization and route algorithms that all
 3. **Technician**: The technician instantly receives a notification inside the app and an email to make him aware of the new incident. The app provides him with the fastest route, the drivers data, the estimated time of arrival and much more.
 
 ## Key Features 
-<h3>Light Mode && Dark Mode</h3>
-<img src="https://raw.githubusercontent.com/AdrianDanlos/CloudRoad/master/public/images/incidencias-dia-captura.png">
+<h3>Light Mode & Dark Mode</h3>
+<p><img src="https://raw.githubusercontent.com/AdrianDanlos/CloudRoad/master/public/images/incidencias-dia-captura.png"></p>
 <img src="https://raw.githubusercontent.com/AdrianDanlos/CloudRoad/master/public/images/incidencias-noche-captura.png">
 <h3>Interactive map</h3>
 <img src="https://raw.githubusercontent.com/AdrianDanlos/CloudRoad/master/public/images/mapa-captura.png">
@@ -32,6 +34,7 @@ Our app provides real-time data, map visualization and route algorithms that all
 <img src="https://raw.githubusercontent.com/AdrianDanlos/CloudRoad/master/public/images/estadisticas-captura.png">
 <h3>Real time traffic cameras</h3>
 <img src="https://raw.githubusercontent.com/AdrianDanlos/CloudRoad/master/public/images/camaras-captura.png">
+
 
 
 ## Different user profiles
