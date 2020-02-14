@@ -23,42 +23,27 @@ Our app provides real-time data, map visualization and route algorithms that all
 3. **Technician**: The technician instantly receives a notification inside the app and an email to make him aware of the new incident. The app provides him with the fastest route, the drivers data, the estimated time of arrival and much more.
 
 
-# How does it work?
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/AdrianDanlos/ApexLegends/master/assets/landing-photo.jpg" alt="LANDING"/>
-</p>
 
 
-## Overview
-The aim of this project is to provide an Apex Legends statistic tracker for all the players who would like to keep track of their in-game stats.
 
-Nonetheless, there is not an Apex Legends official API yet, so we have to work with unnoficial API's that, despite being very welcomed by the community do have some limitations.
+## Key Features 
 
 
-## How to display my data 
-In order for the API to get players data, in-game banners must be added to each legend.
 
-- STEP 1: Equip the following banners in one of your legends: Kills, Wins & Top3.
-- STEP 2: Refresh your profile in <a href="https://apex-opgg.herokuapp.com/" target="_blank">ApexOPGG</a>
+## Different user profiles
+CloudRoad has 3 different profile types:
 
-    <img src="https://raw.githubusercontent.com/AdrianDanlos/ApexLegends/master/assets/search.png" alt="logo" width="400" height="55"/>
+1. **Operator** 
+    
+2. **Technician**
 
-- STEP 3: Repeat STEP 1 and 2 for each legend
+3. **Manager**: A type of account with extra functionalities and access to all of the company's data.
 
-CONGRATS! Your stats have been registered and will be automatically updated in the future!
 
-As the API's for Apex improve, more statistics might be introduced.
+## DEMO accounts
+If you would like to test CloudRoad app email us at <a href="mailto:danlosadrian@gmail.com/">danlosadrian@gmail.com</a> and we will provide you with an account to explore the application.
 
-## API Used
-I encourage you to visit the <a href="https://github.com/HugoDerave/ApexLegendsAPI/">unofficial Apex Legends API</a> used for this project. 
-Wider information about the functioning of the API can be found there. Let's give hime some love for creating the biggest Apex Legends API to date.
-
-## Suggestions
-<p>If you have any suggestions, requests or questions related to this API feel free to hit me up!</p> 
-<a href="https://github.com/AdrianDanlos">
-  <img src="https://img.shields.io/github/followers/AdrianDanlos?label=follow&style=social">
-</a>
+## Software used
 
 
 ## Sobre este proyecto
