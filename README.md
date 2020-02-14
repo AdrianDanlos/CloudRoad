@@ -14,7 +14,7 @@
 Our app provides real-time data, map visualization and route algorithms that allow road technicians to solve incidents easier and quicker.
 </p>
 
-# How does it work?
+## How does it work?
   
 1. **Drivers**: Drivers that have experienced an issue on the road call our company providing the most important details about the incident. (Even though we thought about automating this task through the application we ended up leaving the idea aside. A quick call is faster and much more convenient for drivers than filling an online form in the middle of the road).
     
@@ -22,12 +22,16 @@ Our app provides real-time data, map visualization and route algorithms that all
 
 3. **Technician**: The technician instantly receives a notification inside the app and an email to make him aware of the new incident. The app provides him with the fastest route, the drivers data, the estimated time of arrival and much more.
 
-
-
-
-
 ## Key Features 
-
+<h3>Light Mode && Dark Mode</h3>
+<img src="https://raw.githubusercontent.com/AdrianDanlos/CloudRoad/master/public/images/incidencias-dia-captura.png">
+<img src="https://raw.githubusercontent.com/AdrianDanlos/CloudRoad/master/public/images/incidencias-noche-captura.png">
+<h3>Interactive map</h3>
+<img src="https://raw.githubusercontent.com/AdrianDanlos/CloudRoad/master/public/images/mapa-captura.png">
+<h3>Statistics</h3>
+<img src="https://raw.githubusercontent.com/AdrianDanlos/CloudRoad/master/public/images/estadisticas-captura.png">
+<h3>Real time traffic cameras</h3>
+<img src="https://raw.githubusercontent.com/AdrianDanlos/CloudRoad/master/public/images/camaras-captura.png">
 
 
 ## Different user profiles
@@ -40,15 +44,30 @@ CloudRoad has 3 different profile types:
 3. **Manager**: A type of account with extra functionalities and access to all of the company's data.
 
 
-## DEMO accounts
+## Demo accounts
 If you would like to test CloudRoad app email us at <a href="mailto:danlosadrian@gmail.com/">danlosadrian@gmail.com</a> and we will provide you with an account to explore the application.
 
 ## Software used
 
-<img src="https://raw.githubusercontent.com/AdrianDanlos/CloudRoad/master/public/images/laravel-logo.png" width="200">
-<img src="https://raw.githubusercontent.com/AdrianDanlos/CloudRoad/master/public/images/js-logo.png" width="200">
-<img src="https://raw.githubusercontent.com/AdrianDanlos/CloudRoad/master/public/images/sass-logo.jpg" width="200">
+<p>
+<img src="https://raw.githubusercontent.com/AdrianDanlos/CloudRoad/master/public/images/laravel-logo.png" width="150">
+<img src="https://raw.githubusercontent.com/AdrianDanlos/CloudRoad/master/public/images/js-logo.png" width="150">
+<img src="https://raw.githubusercontent.com/AdrianDanlos/CloudRoad/master/public/images/sass-logo.jpg" width="150">
+</p>
 
-## Sobre este proyecto
+<br>
 
-[Manual del proyecto](https://github.com/OnTheThunder/CloudRoad/blob/master/01.-documentacion/Manual_OnTheThunder.pdf)
+Additional libraries and API's used:
+- <a href="https://developers.google.com/maps/documentation/javascript/tutorial">Google Maps JS API</a>
+- <a href="https://opendata.euskadi.eus/inicio/">OpenData euskadi</a>
+- <a href="https://www.chartjs.org/">ChartJS</a>
+- <a href="https://github.com/fzaninotto/Faker">Faker</a>
+
+
+## Developers
+- <a href="https://github.com/AdrianDanlos">Adrian Danlos</a>
+- <a href="https://github.com/inakicl">Iñaki Caballero</a>
+- <a href="https://github.com/RaulPedraza">Raúl Pedraza</a>
+
+## User guide
+We have created a [user guide](https://github.com/OnTheThunder/CloudRoad/blob/master/01.-documentacion/Manual_OnTheThunder.pdf) to have a better understanding on how the app works :)
