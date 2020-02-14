@@ -47,7 +47,7 @@ If you would like to test CloudRoad app email us at <a href="mailto:danlosadrian
 
 <img src="https://raw.githubusercontent.com/AdrianDanlos/CloudRoad/master/public/images/laravel-logo.png" width="200">
 <img src="https://raw.githubusercontent.com/AdrianDanlos/CloudRoad/master/public/images/js-logo.png" width="200">
-<img src="https://raw.githubusercontent.com/AdrianDanlos/CloudRoad/master/public/images/sass-logo-nobg.png" width="200">
+<img src="https://raw.githubusercontent.com/AdrianDanlos/CloudRoad/master/public/images/sass-logo.png" width="200">
 
 ## Sobre este proyecto
 
