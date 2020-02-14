@@ -1,7 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/AdrianDanlos/CloudRoad/master/public/images/onTheThunderWhite.png" width="200"></p>
 
-<h1 align="center">CloudRoad</h1>
-
 <p align="center">
     <img src="https://img.shields.io/badge/Laravel-orange">
     <img src="https://img.shields.io/badge/JavaScript-f7df1e">
@@ -9,7 +7,7 @@
     <img src="https://img.shields.io/badge/License-MIT-green">
 </p>
 
-# 
+<h1 align="center">CloudRoad</h1>
 <p>
 <a href="http://onthethunder.herokuapp.com/">CloudRoad</a> is a web application designed to incorporate software technology to road incidents in order to streamline the process thus lowering the resolution time of the incident.
     
@@ -73,4 +71,4 @@ Additional libraries and API's used:
 - <a href="https://github.com/RaulPedraza">Raúl Pedraza</a>
 
 ## User guide
-We have created a [user guide](https://github.com/OnTheThunder/CloudRoad/blob/master/01.-documentacion/Manual_OnTheThunder.pdf) to have a better understanding on how the app works :)
+We have created a [user guide](https://github.com/OnTheThunder/CloudRoad/blob/master/01.-documentacion/Manual_OnTheThunder.pdf) to have a better understanding on how the app works :) :+1:
