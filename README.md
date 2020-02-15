@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/AdrianDanlos/CloudRoad/master/public/images/onTheThunderWhite.png" width="200"></p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Laravel-orange">
+    <img src="https://img.shields.io/badge/6.0-Laravel-orange">
     <img src="https://img.shields.io/badge/JavaScript-f7df1e">
     <img src="https://img.shields.io/badge/-SASS-%23CF6499">
     <img src="https://img.shields.io/badge/License-MIT-green">
