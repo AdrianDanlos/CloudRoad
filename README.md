@@ -67,8 +67,17 @@ Additional libraries and API's used:
 - <a href="https://github.com/inakicl">Iñaki Caballero</a>
 - <a href="https://github.com/RaulPedraza">Raúl Pedraza</a>
 
-## Demo accounts
-If you would like to test CloudRoad app, email us at <a href="mailto:danlosadrian@gmail.com/">danlosadrian@gmail.com</a> and we will provide you with an account to explore the application.
+## Login accounts
+In case you are willing to explore the aplication: 
+* As operator: 
+    * username: operario1@operario1.com
+    * password: 12345678
+    
+* As technician: 
+    * username: tecnico1@tecnico1.com
+    * password: 12345678
+
+If you would like to do further testing, email us at <a href="mailto:danlosadrian@gmail.com/">danlosadrian@gmail.com</a>
 
 ## User guide
 We have created a [user guide](https://github.com/OnTheThunder/CloudRoad/blob/master/01.-documentacion/Manual_OnTheThunder.pdf) to have a better understanding on how the app works :) :+1:
