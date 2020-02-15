@@ -45,9 +45,6 @@ CloudRoad has 3 different profile types:
 3. **Manager**: A type of account with extra functionalities and access to all of the company's data.
 
 
-## Demo accounts
-If you would like to test CloudRoad app email us at <a href="mailto:danlosadrian@gmail.com/">danlosadrian@gmail.com</a> and we will provide you with an account to explore the application.
-
 ## Software used
 
 <p>
@@ -69,6 +66,9 @@ Additional libraries and API's used:
 - <a href="https://github.com/AdrianDanlos">Adrian Danlos</a>
 - <a href="https://github.com/inakicl">Iñaki Caballero</a>
 - <a href="https://github.com/RaulPedraza">Raúl Pedraza</a>
+
+## Demo accounts
+If you would like to test CloudRoad app, email us at <a href="mailto:danlosadrian@gmail.com/">danlosadrian@gmail.com</a> and we will provide you with an account to explore the application.
 
 ## User guide
 We have created a [user guide](https://github.com/OnTheThunder/CloudRoad/blob/master/01.-documentacion/Manual_OnTheThunder.pdf) to have a better understanding on how the app works :) :+1:
