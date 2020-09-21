@@ -9,9 +9,7 @@
 
 <h1 align="center">CloudRoad</h1>
 <p>
-<a href="http://onthethunder.herokuapp.com/">CloudRoad</a> is a web application designed to incorporate software technology into road incidents in order to streamline the process and lower the resolution time of the incident.
-    
-Our app provides real-time data, map visualization and route algorithms that allow road technicians to solve incidents easier and quicker.
+<a href="http://onthethunder.herokuapp.com/">CloudRoad</a> an enterprise web app designed to provide quicker assistance to road incidents by providing real-time data trough webcams, graphs, map visualization and route algorithms that allow technicians to solve incidents in a rapid and easy way.
 </p>
 
 ## How does it work?
