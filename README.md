@@ -80,4 +80,4 @@ If you would like to do further testing, email us at <a href="mailto:danlosadria
 ## User guide
 We have created a [user guide](https://github.com/OnTheThunder/CloudRoad/blob/master/01.-documentacion/Manual_OnTheThunder.pdf) to provide a better understanding on how the app works :) 
 
-Take a look at <a href="http://onthethunder.herokuapp.com/">CloudRoad</a>! :+1:
+Take a look at <a href="http://cloudroad.herokuapp.com">CloudRoad</a>! :+1:
