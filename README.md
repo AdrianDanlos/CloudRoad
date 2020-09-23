@@ -9,7 +9,7 @@
 
 <h1 align="center">CloudRoad</h1>
 <p>
-<a href="http://onthethunder.herokuapp.com/">CloudRoad</a> an enterprise web app designed to provide quicker assistance to road incidents by providing real-time data trough webcams, graphs, map visualization and route algorithms that allow technicians to solve incidents in a rapid and easy way.
+<a href="http://cloudroad.herokuapp.com">CloudRoad</a> an enterprise web app designed to provide quicker assistance to road incidents by providing real-time data trough webcams, graphs, map visualization and route algorithms that allow technicians to solve incidents in a rapid and easy way.
 </p>
 
 ## How does it work?
